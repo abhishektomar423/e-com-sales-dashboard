@@ -25,25 +25,31 @@ Quantity
 Profit
 Payment Mode
 (Note: Replace with actual dataset details or link if publicly available. If private, mention “Sample dataset created for learning purposes”).
+
 **Tools & Technologies**
 Power BI Desktop – Dashboard creation & data visualization
 DAX – Calculated measures and KPIs
 Power Query – Data cleaning & transformation
-GitHub – Project portfolio hosting
+GitHub – Project portfolio hosting.
+
 **Dashboard Preview**
+
 **Key Insights**
 Identified top-performing states and cities driving maximum revenue.
 Analyzed profitable vs. loss-making product categories.
 Discovered monthly sales and profit trends using time-intelligence DAX functions.
 Built an interactive slicer system for drill-down by region, category, and payment mode.
+
 **How to Use**
 Download the .pbix file from this repo.
 Open in Power BI Desktop.
 Explore the report using slicers, filters, and drill-downs.
+
 **Future Improvements**
 Automate data refresh using Power BI Service.
 Integrate with a SQL database for real-time analysis.
 Add forecasting and trend analysis.
+
 **Author**
 Abhishek Tomar
 Aspiring Data Analyst | Power BI Enthusiast
