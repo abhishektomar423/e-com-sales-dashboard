@@ -50,9 +50,6 @@ Automate data refresh using Power BI Service.
 Integrate with a SQL database for real-time analysis.
 Add forecasting and trend analysis.
 
-**Screenshot**
-How the dashboard look likes: 
-
 **Author**
 
 Abhishek Tomar
