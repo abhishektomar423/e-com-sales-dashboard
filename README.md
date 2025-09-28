@@ -51,7 +51,10 @@ Integrate with a SQL database for real-time analysis.
 Add forecasting and trend analysis.
 
 **Author**
+
 Abhishek Tomar
 Aspiring Data Analyst | Power BI Enthusiast
+
 🔗LinkedIn Profile: http://linkedin.com/in/abhishek-tomar-056224187)
+
 📧 Contact: abhishek.tomar423@gmail.com
