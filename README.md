@@ -1,13 +1,16 @@
 **E-Commerce Sales Analysis Dashboard (Power BI)**
+
 **Project Overview**
 This project analyzes e-commerce sales data and presents insights through an interactive Power BI dashboard.
 The dashboard tracks key business metrics such as sales, profit, orders, customers, product categories, and regional performance, helping in data-driven decision making.
+
 **Key Learnings / Highlights**
 Built an interactive Power BI dashboard to analyze sales trends and profitability.
 Applied DAX functions (SUM, CALCULATE, DIVIDE, DISTINCTCOUNT, Time Intelligence) to create KPIs.
 Designed custom visualizations: bar chart, clustered bar, pie, donut, scatter, line, area chart, map, and slicers.
 Created data model relationships to join multiple tables for efficient reporting.
 Implemented filters, drill-downs, and slicers for user-driven analysis.
+
 **Dataset**
 Dataset: E-commerce Sales Data (Sample)
 Columns include:
